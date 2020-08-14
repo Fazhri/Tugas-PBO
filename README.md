@@ -1,2 +1,2 @@
-# Hello-World
-Tugas Laravel &amp; Java Hello World
+Tuga Laravel & Java
+"Hello World!"
